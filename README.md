@@ -1,2 +1,2 @@
-# dhammaprimer
-達磨入門書
+# dhammahall
+達磨堂
