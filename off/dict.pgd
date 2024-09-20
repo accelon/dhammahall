@@ -1,4 +1,4 @@
-^:<name=transclusion>	def
+﻿{id:"transclusion",title:"佛學術語論語新詮",aligncaption:"辭典"}
 axial_age	^wiki<@軸心世紀> ^baidu<@轴心时代/61314561>公元前五百年前後一兩百年間，北緯30度右右，哲人輩出。中國先秦有孔子、老子等諸子百家，^t#ancient_greece(古希臘)有^t#socrates(蘇格拉底)，古波斯有^t#zoroaster(瑣羅亞斯德)，而古印度則有反^t#brahmin(婆羅門)的^t#sramana(沙門思潮)代表人物^t#buddha(佛陀)。
 arahat	^wiki<@阿羅漢> 根除煩惱，死後不再輪迴之人。
 ancient_greece	^wiki<@古希臘>^baidu<@古希腊>狹義上指希臘地區從公元前12世紀邁錫尼文明毀滅至公元前146年希臘地區被羅馬共和國征服為止。廣義上指愛琴諸文明在羅馬人征服前的全部歷史。
@@ -25,3 +25,21 @@ pali	^wiki<@巴利語> 是古印度語言，屬於印歐語系、印度伊朗語
 semitic	^wiki<@閃族人> 起源於阿拉伯半島和敘利亞沙漠的遊牧民族。很可能是巴勒斯坦人、敘利亞人與猶太族裔的先祖。
 sovereign_state	由1648年西發里亞條約精神而形成之概念。
 zoroaster	^wiki<@祅教>創始者。
+sariputta	全名優婆底沙．舍利子(Upatissa Sariputta)，參考^[古印度命名習慣]。與^[大目犍連]並稱為佛陀的兩大^[上首弟子]，稱智慧第一。
+mahamogallana	稱神通第一，事母至孝。佛道佛說的傳說之「目連救母」以他為原型。
+mahakassapa	佛陀入滅後，在^[王舍城]召集第一次結集。禪宗尊稱為第一代祖師。
+ananda	白飯王之子，佛陀之堂弟，提婆達多的弟弟。長期擔任佛陀的侍者，記憶力超群，傳世經典以「如是我聞」為首，即由阿難誦出，在第一次結集擔任重要角色。
+王舍城	@rajagaha
+rajagaha	佛教^[八大聖地]，^[摩揭陀]國首都，位於印度比哈爾邦^[那爛陀]縣。由於頻婆娑羅王護持的緣故，早期佛陀常在此城的^[竹林精舍]及附近^[靈鷲山]居留。
+舍利子	@sariputta
+舍利弗	@sariputta
+阿難	@ananda
+大目犍連	@mahamogallana
+目犍連	@mahamogallana
+pamukha	佛陀的重要弟子，智慧第一^[舍利弗]、神通第一^[目犍連]、頭陀第一^[大迦葉]、持戒第一^[優波離]。
+優波離	@upalli
+大迦葉	@mahakassapa
+上首弟子	@pamukha
+古印度命名習慣	古時印度人名常加上族名或母名以區分，如七歲證阿羅漢果的 ^[陀羅婆摩羅|dabba_mallaputta]，奢那教創始人，尼乾陀．若提子，(Nigaṇṭha-nāṭaputta)。
+dabba_mallaputta	能廣勸率，施立齋講，所謂陀羅婆摩羅比丘是。增一阿含卷第三弟子品
+

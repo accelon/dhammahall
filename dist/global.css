@@ -8,7 +8,7 @@ body{
   color:silver;
 }
 :root{
-  --textsize : 2em;
+  --textsize : 1em;
   --depthcolor0 : silver;
   --depthcolor1 : hsl(40,70%,50%);
   --depthcolor2 : hsl(80,70%,50%);
