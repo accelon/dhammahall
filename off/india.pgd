@@ -3,12 +3,12 @@ ajatashatru	^[頻婆娑羅]王與^[韋提希]王后之子，與^[提婆達多]�
 ananda	白飯王之子，佛陀之堂弟，提婆達多的弟弟。長期擔任佛陀的侍者，記憶力超群，傳世經典以「如是我聞」為首，即由阿難誦出，在第一次結集擔任重要角色。
 anathapindada	名須達多Sudatta，意為善施。樂善好施。
 ariyan	發源於伊朗高原的游牧民族，消滅了除中國之外的三大古文明。
-asoka	
+asoka	佛教大護法。^[孔雀王朝]國王，統一印度。
 bhikkhuni	比丘尼守311條戒。二部僧受。蓮華色。
 bihar	印度東北方的邦。
 bimbasara	^[摩揭陀]國訶黎王朝的國王，^[王舍城]的建立者，併吞東面的鴦伽國，佛陀的護持者，獻出^[竹林精舍]，後被其子^[阿闍世]王篡位並殺害。
 brahmin	起緣於^[吠陀]，古印度^[種姓制度]主掌祭祀。三綱：吠陀天啟、祭祀萬能、婆羅門至上。
-buddha	佛教的創始人，出生於^[軸心時代|axial_age]的古印度，^[剎帝利]種姓。
+buddha	佛教的創始人，出生於^[軸心時代]的古印度，^[剎帝利]種姓。
 dabba_mallaputta	能廣勸率，施立齋講，所謂陀羅婆摩羅比丘是。增一阿含卷第三弟子品
 devadatta	
 gotama	佛陀的族姓，源自^[釋迦]族祖仙名。又譯為瞿曇，意思是最好的牛。
@@ -36,10 +36,9 @@ samanera	受十戒的男子，通常為未成年或高齡出家者。
 sariputta	全名優婆底沙．舍利子(Upatissa Sariputta)，參考^[古印度命名習慣]。與^[大目犍連]並稱為佛陀的兩大^[上首弟子]，稱智慧第一。
 shakya	佛陀的部族名。居住於^[迦毘羅衛]。
 siddhattha	佛陀的俗家名字。
-sramana	反婆羅門之^[種性制度]的團體。
+sramana	反婆羅門之^[種姓制度]的團體。
 suddhodana	suddha+odana 純淨的米飯，^[悉達多]太子之父。
 suddhodana	佛陀的父親，^[迦毘羅衛]國王。
-varna	
 varna	通過內婚制將社會階層固化的社會制度。最典型的例子是印度的^[種姓制度]，分為^[婆羅門]、^[剎帝利]、吠舍、首陀羅，以及在不可接觸的賤民。
 veda	原意為「啟示」，婆羅門教根本經典包括：收集歌詠的梨俱、讚頌的娑摩、祭祀的夜柔、禳災的阿闥婆。由入侵印度的^[雅利安]人建立。
 vedehi	^[頻婆娑羅]王之妃，^[阿闍世]王生母。
@@ -47,9 +46,11 @@ veluvanarama	^[頻婆娑羅]王獻出的第一座專供佛陀及弟子們住所�
 vidudabha	^[波斯匿]王與之^[茉莉]夫人所生，為報復少年受「婢女之子」之辱，成年後篡位並血洗^[迦毘羅衛]城。
 yasodhara	^[悉達多]太子的配偶，有名的美人。^[羅睺羅]生母，後隨佛出家。
 上首弟子	@pamukha
-優波離	@upalli
+優波離	@upali
+upali	熟悉戒律的大弟子，出家前為低種性之理髮匠。
+nanda	佛陀的同父異母弟。
 剎帝利	@kshatriya
-古印度命名習慣	古時印度人名有加上族名或母名者，如：七歲證阿羅漢果的^[陀羅婆摩羅|dabba_mallaputta]、奢那教創始人：尼乾陀．若提子，(Nigaṇṭha-nāṭaputta)、^[摩揭陀]國王：阿闍世．韋提希子 (Ajātasattu-vedehiputta)
+古印度命名習慣	古時印度人名有加上族名或母名者，如：七歲證阿羅漢果的^[陀羅婆摩羅|dabba_mallaputta]、奢那教創始人：尼乾陀．若提子，(Nigaṇṭha-nāṭaputta)、^[摩揭陀]國王：阿闍世．^[韋提希]子 (Ajātasattu-vedehiputta)
 吠陀	@veda
 大目犍連	@mahamogallana
 大迦葉	@mahakassapa
@@ -85,10 +86,29 @@ yasodhara	^[悉達多]太子的配偶，有名的美人。^[羅睺羅]生母，�
 那爛陀	@nalanda
 釋迦	@sakya
 阿育王	@asoka
-阿闍世	@Ajatashatru
+阿闍世	@ajatashatru
 阿難	@ananda
 雅利安	@ariyan
 難陀	@nanda
 靈鷲山	@gijjhakuta
 韋提希	@vedehi
 頻婆娑羅	@bimbasara
+菩提伽耶	@buddhagaya
+藍毗尼園	@lumbini
+鹿野苑	@saranganatha
+舍衛城	@sravasti
+buddhagaya	佛陀成道處。
+sravasti	位於^[拘薩羅]國，^[祇園精舍]所在。
+kusinagara	佛陀入滅處。^[末羅]國首都。
+拘尸城	@kusinagara
+毗舍離	@vesali
+跋耆	@vajji
+vajji	古印度十六國之一
+末羅	@malla
+malla	古印度十六國之一
+vesali	^[跋耆]國首都。^[第二次結集]處。
+第二次結集	佛滅後百年，耶舍召集東西部，討論十事非法，根本分裂。
+八大聖地	^[藍毗尼園]、^[菩提伽耶]、^[鹿野苑]、^[舍衛城]、桑伽施、^[王舍城]、^[毗舍離]、^[拘尸城]。
+lumbini	佛陀誔生地。今尼泊爾境內近印度^[舍衛城]。
+沙門思潮	反^[婆羅門]的修行者。
+sakya	佛陀的部族名。
