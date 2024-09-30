@@ -28,7 +28,7 @@
 兩舌	@apisuna
 八正道	@atthangikamagga
 六入	@salayatana
-六根	@indriya
+六門	@indriya
 六識界	@vinnanadhatu
 初果	@sotapanna
 初禪	@pathamajhana
@@ -41,7 +41,7 @@
 名法	@namadhamma
 名色	@namarupa
 名蘊	@namakhanda
-味塵	@rasarammana
+味境	@rasarammana
 喜	@piti
 四大王天	@catummaharaja
 四如意足	@iddhipada
@@ -117,7 +117,7 @@
 正語	@sammavaca
 死	@marana
 死亡心	@cuticitta
-法塵	@dhammarammana
+法境	@dhammarammana
 涅槃	@nibbana
 淨色	@pasadarupa
 渴愛	@tanha
@@ -129,7 +129,7 @@
 無所有處	@akincannayatana
 無明	@avijja
 無色界	@arupavacara
-無色界禪	@arupavacarajhana
+無色界禪	@arupavacarajjhana
 無色貪	@aruparaga
 班智達	@pandita
 生	@jati
@@ -158,13 +158,13 @@
 老死	@jaramarana
 耳	@sota
 耳識	@sotavinnana
-聲	@聲塵
-聲塵	@saddarammana
+聲	@聲境
+聲境	@saddarammana
 舌	@jivha
 舌識	@jivhavinnana
 般若	@prajna
 色	@rupa
-色塵	@ruparammana
+色境	@ruparammana
 色法	@rupadhamma
 色界	@rupavacara
 色界禪	@rupavacarajjhana
@@ -173,11 +173,12 @@
 色貪	@ruparaga
 苦	@dukkha
 苦趣	@apaya
+彌勒	@metteyya
 菩提	@bodhi
 菩提分	@bodhipakkhika
 行	@sankhara
 觸	@phassa
-觸塵	@photthabba
+觸境	@photthabba
 識	@vinnana
 識無邊處	@vinnanancayatana
 貪	@lobha
@@ -203,8 +204,8 @@
 須陀洹	@sotapanna
 風	@vata
 食生色聚	@aharajarupa
-香	@香塵
-香塵	@ghanarammana
+香	@香境
+香境	@ghanarammana
 鼻	@ghana
 鼻識	@ghanavinnana
 鬼	@peta
@@ -262,3 +263,7 @@
 四神足	@iddhipada
 念	@sati
 佛陀	@buddha
+水	@apo
+業	@kamma
+思	@cetana
+果報	@vipaka
