@@ -1,13 +1,15 @@
 ﻿ {id:"terminology",aligncaption:"名相代碼"}
 一境性	@ekaggata
-七覺支	
+七覺支	@bojjhanga
 三不善根	@akusalamula
 三十三天	@tavatimsa
+三十二相	@dvattimsalakkhana
 三明	@tivijja
 三果	@anagami
 三界	@tiloka
 三相	@tilakkhana
 三禪	@tatiyajhana
+九分教	@navanga
 乾達婆	@gandhabba
 二果	@sakadagami
 二禪	@dutiyajhana
@@ -16,7 +18,6 @@
 五神通	@pancabinna
 五蓋	@nirvarana
 五蘊	@khanda
-五蘊熾盛	執取^[五蘊]，產生的熱惱。
 五識	@pancavinnana
 五趣	@pancagati
 五門心路	@pancadvaravithi
@@ -25,7 +26,6 @@
 他化自在天	@paranimmitavasavatti
 伺	@vicara
 佛陀	@buddha
-味用	@rasa
 信	@saddha
 兜率天	@tusita
 內觀	@vipassana
@@ -46,10 +46,12 @@
 受	@vedana
 名	@nama
 名法	@namadhamma
+法	@dhamma
 名色	@namarupa
 名蘊	@namakhanda
 味	@rasarammana
 味境	@rasarammana
+味用	@rasa
 喜	@piti
 四增上	@adhipati
 四大王天	@catummaharaja
@@ -59,7 +61,6 @@
 四正勤	@sammappadhana
 四神足	@iddhipada
 四禪	@catutthajhana
-四禪八定	四色界禪，四^[無色界禪]的集合名詞。
 四究竟法	paramatthadhamma
 四聖諦	@ariyasacca
 地	@bhumi
@@ -117,10 +118,11 @@
 戒禁取	@silabbata
 所緣	@arammana
 捨	@upekkha
-授記	
+授記	@vyakarana
 掉舉	@uddhacca
 推度	@santirana
 摩睺羅迦	--
+擇法	@dhammavicaya
 斯陀含	@sakadagami
 明	@vijja
 昏沉	@thina
@@ -155,6 +157,7 @@
 沙門果經	--
 法境	@dhammarammana
 波旬	@papima
+波羅蜜	@parami
 涅槃	@nibbana
 淨居天	@suddhavasa
 淨色	@pasadarupa
@@ -201,7 +204,7 @@
 精進	@viriya
 結	@samyojana
 結生心	@patisandhi
-綺語	
+綺語	@samphappala
 緊那羅	@kinnara
 老	@jara
 老死	@jaramarana
@@ -225,11 +228,14 @@
 菩提	@bodhi
 菩提分	@bodhipakkhika
 行	@sankhara
+行捨	@sankharupekkha
 見	@ditthi
 觀	@vimamsa
 觀智	@vipassananana
 觸	@phassa
 觸境	@photthabba
+記說	@veyyakarama
+諸法	@sabbadhamma
 識	@vinnana
 識無邊處	@vinnanancayatana
 貪	@lobha
@@ -237,6 +243,7 @@
 貪戀	@raga
 身	@kaya
 身識	@kayavinnana
+輕安	@passaddhi
 近因	@padatthana
 近行	@upacara
 迦樓羅	--
@@ -271,9 +278,5 @@
 鼻	@ghana
 鼻識	@ghanavinnana
 龍	@naga
-行捨	@sankharupekkha
-三十二相	@dvattimsalakkhana
-諸法	@sabbadhamma
-授記	@vyakarana
-記說	@veyyakarama
-九分教	@navanga
+三結	@tinisamyojanani
+四大	@catumahabhutika
