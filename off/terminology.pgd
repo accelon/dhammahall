@@ -50,7 +50,7 @@
 名色	@namarupa
 名蘊	@namakhanda
 味	@rasarammana
-味境	@rasarammana
+味塵	@rasarammana
 味用	@rasa
 喜	@piti
 四增上	@adhipati
@@ -61,7 +61,7 @@
 四正勤	@sammappadhana
 四神足	@iddhipada
 四禪	@catutthajhana
-四究竟法	paramatthadhamma
+四究竟法	@paramatthadhamma
 四聖諦	@ariyasacca
 地	@bhumi
 地大	@pathavi
@@ -155,7 +155,7 @@
 死亡心	@cuticitta
 水	@apo
 沙門果經	--
-法境	@dhammarammana
+法塵	@dhammarammana
 波旬	@papima
 波羅蜜	@parami
 涅槃	@nibbana
@@ -199,6 +199,7 @@
 神通	@abinna
 禪支	@jhananga
 禪那	@jhana
+禪定	廣義泛指各種^[定]，狹義指^[禪那]。
 種性	@gotrabhu
 空無邊處	@vinnanancayatana
 精進	@viriya
@@ -210,13 +211,13 @@
 老死	@jaramarana
 耳	@sota
 耳識	@sotavinnana
-聲	@聲境
-聲境	@saddarammana
+聲	@聲塵
+聲塵	@saddarammana
 舌	@jivha
 舌識	@jivhavinnana
 般若	@prajna
 色	@rupa
-色境	@ruparammana
+色塵	@ruparammana
 色法	@rupadhamma
 色界	@rupavacara
 色界禪	@rupavacarajjhana
@@ -233,7 +234,7 @@
 觀	@vimamsa
 觀智	@vipassananana
 觸	@phassa
-觸境	@photthabba
+觸塵	@photthabba
 記說	@veyyakarama
 諸法	@sabbadhamma
 識	@vinnana
@@ -271,8 +272,8 @@
 領受	@sampaticchana
 風	@vata
 食生色聚	@aharajarupa
-香	@香境
-香境	@ghanarammana
+香	@香塵
+香塵	@gandharammana
 鬼	@peta
 魔	@mara
 鼻	@ghana
@@ -280,3 +281,13 @@
 龍	@naga
 三結	@tinisamyojanani
 四大	@catumahabhutika
+一切法	@sabbadhamma
+勝解	@adhimokkha
+省察智	@paccavekkhananana
+聖者	@ariyapuggala
+聖	@ariya
+煩惱	@kilesa
+隨眠煩惱	@anusayakilesa
+慈	@metta
+悲	@karuna
+發趣論	@patthana
